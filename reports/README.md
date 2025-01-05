@@ -22,7 +22,7 @@ python report.py html
 ```
 
 Will generate a `.html` page of your report. After the deadline for answering this template, we will auto-scrape
-everything in this `reports` folder and then use this utility to generate a `.html` page that will be your serve
+everything in this `reports` folder and then use this utility to generate a `.html` page that will serve
 as your final hand-in.
 
 Running
